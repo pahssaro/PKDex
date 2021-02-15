@@ -23,6 +23,6 @@
 
 
 # Architecture
- MVVM
- Coordinator
- View Code
+- [MVVM]
+- [Coordinator]
+- [View Code]
